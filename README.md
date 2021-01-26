@@ -1,5 +1,5 @@
 # livewire-wizard
-This simple livewire wizard form, hope it is useful for your project.
+This is a simple livewire wizard form, hope it is useful for your project.
 
 ## Instalation
 
